@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<meta http-equiv="refresh" content="0,1; URL=https://sites.google.com/view/xxeperxxaustria/home?authuser=0">
+		<meta http-equiv="refresh" content="1; URL=https://sites.google.com/view/xxeperxxaustria/home?authuser=0">
 	</head>
 	<body>
 		<h1>Weiterleitung</h1>
